@@ -8,5 +8,7 @@ Credits
 -----
 
 Whac - Programming
+
 Jell - Graphics
+
 Other various graphics artists - Graphics
