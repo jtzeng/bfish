@@ -1,0 +1,2 @@
+#!/bin/bash
+java -Djava.library.path=.:. -Dfile.encoding=UTF-8 -classpath ./bin:./lib/lwjgl.jar:./lib/slick.jar net.skyrealm.bfish.Main
